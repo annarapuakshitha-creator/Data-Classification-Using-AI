@@ -21,3 +21,6 @@ This project predicts whether a student will pass or fail based on study hours, 
 
 ## Result
 Model Accuracy: 100%
+
+## Author
+Akshitha Annarapu
